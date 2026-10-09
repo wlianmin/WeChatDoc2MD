@@ -43,15 +43,10 @@
 
 ### 方法二：从 GitHub 安装
 
-将本项目发布到 GitHub 后，可以在仓库中打开 `WeChatDoc2MD.js`，点击 **Raw**，然后由用户脚本管理器安装。
-
-如果仓库默认分支为 `main`，也可以将下面的地址替换为实际的 GitHub 用户名和仓库名后使用：
-
+在油猴的`管理面板`中切换到`实用工具`选择`从 URL 安装`，从以下地址安装：
 ```text
 https://raw.githubusercontent.com/wlianmin/WeChatDoc2MD/main/WeChatDoc2MD.js
 ```
-
-> 发布仓库时，建议保持脚本文件名不变，以便后续更新和安装链接稳定。
 
 ## 使用方法
 

@@ -1,8 +1,15 @@
 // ==UserScript==
 // @name         企业微信智能文档导出 Markdown
 // @namespace    local.weixin.smartpage.export
-// @version      1.0.0
+// @version      1.0.1
+// @author       wlianmin
 // @description  使用当前登录态读取完整智能文档，并下载为 Markdown 文件
+// @homepageURL  https://github.com/wlianmin/WeChatDoc2MD
+// @source       https://github.com/wlianmin/WeChatDoc2MD/blob/main/WeChatDoc2MD.js
+// @supportURL   https://github.com/wlianmin/WeChatDoc2MD/issues
+// @downloadURL  https://raw.githubusercontent.com/wlianmin/WeChatDoc2MD/main/WeChatDoc2MD.js
+// @updateURL    https://raw.githubusercontent.com/wlianmin/WeChatDoc2MD/main/WeChatDoc2MD.js
+// @license      MIT
 // @match        https://page.weixin.qq.com/smartpage/p/*
 // @grant        none
 // @run-at       document-idle
